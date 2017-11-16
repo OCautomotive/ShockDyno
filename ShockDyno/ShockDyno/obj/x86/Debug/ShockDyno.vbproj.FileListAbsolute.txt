@@ -1,0 +1,12 @@
+c:\users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\bin\Debug\ShockDyno.exe
+c:\users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\bin\Debug\ShockDyno.pdb
+c:\users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\bin\Debug\ShockDyno.xml
+c:\users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\obj\x86\Debug\ShockDyno.Resources.resources
+c:\users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\obj\x86\Debug\ShockDyno.vbproj.GenerateResource.Cache
+c:\users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\obj\x86\Debug\ShockDyno.exe
+c:\users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\obj\x86\Debug\ShockDyno.xml
+c:\users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\obj\x86\Debug\ShockDyno.pdb
+C:\Users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\obj\x86\Debug\ShockDyno.DynoReading.resources
+C:\Users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\obj\x86\Debug\ShockDyno.cellCalibration.resources
+C:\Users\milmjoh\Documents\Visual Studio 2010\Projects\ShockDyno\ShockDyno\bin\Debug\ShockDyno.exe.config
+C:\Users\milmjoh\documents\visual studio 2010\Projects\ShockDyno\ShockDyno\obj\x86\Debug\ShockDyno.vbprojResolveAssemblyReference.cache
